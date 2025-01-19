@@ -1,4 +1,4 @@
-Emotion Classification Model
+EmotionAI : Emotion Classification Model
 
 Overview
 
@@ -25,12 +25,12 @@ Dependencies :
 
 - pandas
 
--scikit-learn
+-sci-kit-learn
 
 - matplotlib
 
 - seaborn
 
-Acknowledgements
+Acknowledgments
 
 - Dataset: Tweet Emotions Dataset
