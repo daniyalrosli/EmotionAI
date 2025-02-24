@@ -1,4 +1,4 @@
-EmotionAI : Emotion Classification Model
+EmotionAI : Emotion Classification Model (60%)
 
 Overview
 
