@@ -2,9 +2,9 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 import joblib
 
-# Load the trained model
-model = joblib.load('emotion_model.pkl')
-vectorizer = joblib.load('tfidf_vectorizer.pkl')
+# Load the trained moded
+
+
 
 app = FastAPI()
 
